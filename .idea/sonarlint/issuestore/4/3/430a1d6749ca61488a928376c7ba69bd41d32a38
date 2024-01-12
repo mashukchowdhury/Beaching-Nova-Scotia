@@ -1,0 +1,67 @@
+
+M
+java:S3740Â"/Provide the parametrized type for this generic.(ªÀ ­8˜ÙÕºÏ1
+|
+java:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıÕìŒıÿÿÿÿ8™ÙÕºÏ1
+w
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åúİ‡8šÙÕºÏ1
+w
+java:S1192‹"YDefine a constant instead of duplicating this literal "Error getting documents." 3 times.(¶æµú8Î±èºÏ1
+…
+java:S1192û"gDefine a constant instead of duplicating this literal "beachVisualWaveConditionsTextForTheDay" 5 times.(ÍÜø8šÙÕºÏ1
+y
+java:S1192ú"[Define a constant instead of duplicating this literal "beachCapacityTextForTheDay" 5 times.(¸ÜÎ8šÙÕºÏ1
+R
+java:S1066Ô"/Merge this if statement with the enclosing one.(¤ÃÈ¥ÿÿÿÿÿ8›ÙÕºÏ1
+Œ
+java:S1319»"iThe type of "beachList" should be an interface such as "List" rather than the implementation "ArrayList".(Ğëªêúÿÿÿÿ8›ÙÕºÏ1
+s	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ˆÄÙúÿÿÿÿ8›ÙÕºÏ1
+n	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÕ¨8›ÙÕºÏ1
+s	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÒøÿÿÿÿ8›ÙÕºÏ1
+J
+java:S1604v"(Make this anonymous inner class a lambda(“µ³Ğıÿÿÿÿ8›ÙÕºÏ1
+F
+java:S1604‹"(Make this anonymous inner class a lambda(Ì¬¿À8›ÙÕºÏ1
+K
+java:S1604“"(Make this anonymous inner class a lambda(ÙŒ±†ûÿÿÿÿ8›ÙÕºÏ1
+F
+java:S1604Û"(Make this anonymous inner class a lambda(áÛıÜ8œÙÕºÏ1
+F
+java:S1604ı"(Make this anonymous inner class a lambda(®¯ØØ8Ï±èºÏ1
+K
+java:S1604™"(Make this anonymous inner class a lambda(¯‘àçúÿÿÿÿ8Ï±èºÏ1
+F
+java:S1604ì"(Make this anonymous inner class a lambda(È³™“8œÙÕºÏ1
+K
+java:S1604„"(Make this anonymous inner class a lambda(Ñô÷³ùÿÿÿÿ8œÙÕºÏ1
+m
+java:S1301y"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8œÙÕºÏ1
+‚
+java:S1104;"eMake visualWaterConditionsText a static final constant or non-public and provide accessors if needed.(ªÃ°†8œÙÕºÏ1
+u
+java:S1104<"XMake capacityText a static final constant or non-public and provide accessors if needed.(ÛÇ™Å8œÙÕºÏ1
+s
+java:S1104="QMake dates a static final constant or non-public and provide accessors if needed.(Öáãéúÿÿÿÿ8œÙÕºÏ1
+t
+java:S1104?"WMake currentDate a static final constant or non-public and provide accessors if needed.(‹°¥¢8œÙÕºÏ1
+w
+java:S1104@"UMake beachName a static final constant or non-public and provide accessors if needed.(¢ò¾ªúÿÿÿÿ8œÙÕºÏ1
+€
+java:S1450I"cRemove the "bottomNavigationView" field and declare it as a local variable in the relevant methods.(ê¥ÎÚ8¥ÚÕºÏ1
+C	java:S131y""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8°ÚÕºÏ1
+p
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 60 to the 15 allowed.(ı‹É®8ºÚÕºÏ1
+Y	java:S125“"<This block of commented-out lines of code should be removed.(ÇÀ£é8»ÚÕºÏ1
+G
+java:S1940£")Use the opposite operator ("!=") instead.(²ı·ã8¼ÚÕºÏ1
+G
+java:S1940¨")Use the opposite operator ("!=") instead.(Ìâù8¼ÚÕºÏ1
+Y	java:S125Î"<This block of commented-out lines of code should be removed.(è«‘å8¾ÚÕºÏ1
+L
+java:S1940Ÿ")Use the opposite operator ("!=") instead.(ãù§Ôùÿÿÿÿ8ÂÚÕºÏ1
+G
+java:S1940¡")Use the opposite operator ("!=") instead.(Ç¡ô±8ÂÚÕºÏ1
+^	java:S125§"<This block of commented-out lines of code should be removed.(Ø¬‡ÿÿÿÿÿ8ÃÚÕºÏ1
+^	java:S125ª"<This block of commented-out lines of code should be removed.(Ø¬‡ÿÿÿÿÿ8ÃÚÕºÏ1
+é
+java:S6541›"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 65 to 64, Complexity from 16 to 14, Nesting Level from 4 to 2, Number of Variables from 11 to 6.(§°ÕÕûÿÿÿÿ8ÉÚÕºÏ1

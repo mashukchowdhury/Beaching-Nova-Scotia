@@ -1,0 +1,33 @@
+
+l	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ÷†W8­˜»’Ï1
+E
+java:S1604,"(Make this anonymous inner class a lambda(Ì¬¿À8­˜»’Ï1
+J
+java:S16043"(Make this anonymous inner class a lambda(ÙŒ±†ûÿÿÿÿ8­˜»’Ï1
+J
+java:S1604H"(Make this anonymous inner class a lambda(°¦™«ûÿÿÿÿ8­˜»’Ï1
+J
+java:S1604P"(Make this anonymous inner class a lambda(ôËÑ´ûÿÿÿÿ8ú‰ô”Ï1
+J
+java:S1604\"(Make this anonymous inner class a lambda(“¦íåúÿÿÿÿ8®˜»’Ï1
+k
+java:S1104"NMake db a static final constant or non-public and provide accessors if needed.(¼•ÿã8®˜»’Ï1
+p
+java:S1104"SMake prefBtn a static final constant or non-public and provide accessors if needed.(¢†•¼8®˜»’Ï1
+s
+java:S1104"VMake signOutBtn a static final constant or non-public and provide accessors if needed.(¢†•¼8®˜»’Ï1
+n
+java:S1104"QMake Email a static final constant or non-public and provide accessors if needed.(ÞÖ‹¤8®˜»’Ï1
+q
+java:S1104"TMake username a static final constant or non-public and provide accessors if needed.(ÞÖ‹¤8®˜»’Ï1
+q
+java:S1104"TMake FullName a static final constant or non-public and provide accessors if needed.(ÞÖ‹¤8®˜»’Ï1
+l	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÖ‹¤8Õ˜»’Ï1
+o	java:S116"SRename this field "FullName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÖ‹¤8Õ˜»’Ï1
+E
+java:S1659"(Declare "signOutBtn" on a separate line.(¢†•¼8é˜»’Ï1
+b
+java:S1659"EDeclare "username" and all following declarations on a separate line.(ÞÖ‹¤8é˜»’Ï1
+]	java:S125@"<This block of commented-out lines of code should be removed.(¶Éÿàþÿÿÿÿ8ö˜»’Ï1
+T
+java:S1135?"2Complete the task associated to this TODO comment.(ÕÍ’Íÿÿÿÿÿ8÷˜»’Ï1

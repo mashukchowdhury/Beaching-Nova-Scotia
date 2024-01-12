@@ -1,0 +1,17 @@
+
+L
+java:S3740j"/Provide the parametrized type for this generic.(ªÀ ­8Åá­²Î1
+‹
+java:S1319c"iThe type of "beachList" should be an interface such as "List" rather than the implementation "ArrayList".(Ğëªêúÿÿÿÿ8Æá­²Î1
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ˆÄÙúÿÿÿÿ8Æá­²Î1
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È…‹”ÿÿÿÿÿ8Æá­²Î1
+m	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ìÛñ8Æá­²Î1
+J
+java:S1604'"(Make this anonymous inner class a lambda(¯‘àçúÿÿÿÿ8Çá­²Î1
+o
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ı‹É®8Øá­²Î1
+[
+java:S1854/">Remove this useless assignment to local variable "DataRating".(«ìÛñ8Úá­²Î1
+]	java:S125-"<This block of commented-out lines of code should be removed.(ğó®³ûÿÿÿÿ8Şá­²Î1
+L
+java:S1481/"/Remove this unused "DataRating" local variable.(«ìÛñ8Şá­²Î1

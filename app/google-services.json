@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420089484639",
+    "project_id": "beachappdb",
+    "storage_bucket": "beachappdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420089484639:android:bb31d8b486975521a6d2ea",
+        "android_client_info": {
+          "package_name": "com.example.beachingns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMVykx9z36Jc1eF8rt1sqjqezJd1JjfMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

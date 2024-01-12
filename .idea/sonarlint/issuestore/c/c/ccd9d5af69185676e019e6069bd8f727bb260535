@@ -1,0 +1,131 @@
+
+x
+java:S1192É"UDefine a constant instead of duplicating this literal "wheelchairAccessible" 3 times.(ÙÃÛüÿÿÿÿ8·ÕÚ˜Ï1
+u
+java:S1192c"SDefine a constant instead of duplicating this literal "BNSUSERSTABLE-PROD" 3 times.(Ãµùÿÿÿÿ8ÇìÆ¬Ï1
+k
+java:S1192È"MDefine a constant instead of duplicating this literal "sandyOrRocky" 3 times.(ğ„™Ú8¸ÕÚ˜Ï1
+f
+java:S1192^"IDefine a constant instead of duplicating this literal "userType" 3 times.(é Ò½8¸ÕÚ˜Ï1
+r
+java:S1192¡"ODefine a constant instead of duplicating this literal "Beach Location" 4 times.(º±†ûÿÿÿÿ8úŠ£¨Ï1
+v
+java:S1192Ê"SDefine a constant instead of duplicating this literal "floatingWheelchair" 3 times.(–Á›çıÿÿÿÿ8¹ÕÚ˜Ï1
+n	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÕ¨8ºÕÚ˜Ï1
+s	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÒøÿÿÿÿ8»ÕÚ˜Ï1
+E
+java:S1604d"(Make this anonymous inner class a lambda(»ıª©8»ÕÚ˜Ï1
+F
+java:S1604‡"(Make this anonymous inner class a lambda(ã‘Àò8¼ÕÚ˜Ï1
+K
+java:S1604"(Make this anonymous inner class a lambda(öèÛŒùÿÿÿÿ8¼ÕÚ˜Ï1
+K
+java:S1604œ"(Make this anonymous inner class a lambda(µ™‰–ÿÿÿÿÿ8¼ÕÚ˜Ï1
+K
+java:S1604°"(Make this anonymous inner class a lambda(ÌµÆšùÿÿÿÿ8½ÕÚ˜Ï1
+K
+java:S1604Ï"(Make this anonymous inner class a lambda(Ïë£ùÿÿÿÿ8½ÕÚ˜Ï1
+K
+java:S1604Ö"(Make this anonymous inner class a lambda(Ÿ ¹ÿÿÿÿÿ8½ÕÚ˜Ï1
+F
+java:S1604è"(Make this anonymous inner class a lambda(á¼«ö8ÉìÆ¬Ï1
+K
+java:S1604´"(Make this anonymous inner class a lambda(™•·Ÿûÿÿÿÿ8ûŠ£¨Ï1
+K
+java:S1604İ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8ûŠ£¨Ï1
+r
+java:S1104/"PMake auth a static final constant or non-public and provide accessors if needed.(İ¡ñÄıÿÿÿÿ8Ã¡¿•Ï1
+w
+java:S11040"UMake beachName a static final constant or non-public and provide accessors if needed.(ä”¤Üøÿÿÿÿ8Ã¡¿•Ï1
+}
+java:S11040"[Make parsedBeachName a static final constant or non-public and provide accessors if needed.(ä”¤Üøÿÿÿÿ8Ã¡¿•Ï1
+€
+java:S11041"dMake landingBeachCapacityText a static final constant or non-public and provide accessors if needed.(Çúàk8Ã¡¿•Ï1
+…
+java:S11042"hMake landingBeachSandyOrRockyText a static final constant or non-public and provide accessors if needed.(°Å‰’8Ã¡¿•Ï1
+
+java:S11043"pMake landingBeachWheelchairAccessibleText a static final constant or non-public and provide accessors if needed.(®şûã8Ã¡¿•Ï1
+…
+java:S11044"cMake landingBeachImageSource a static final constant or non-public and provide accessors if needed.(ùÄÁ›ûÿÿÿÿ8Ã¡¿•Ï1
+“
+java:S11045"qMake landingBeachVisualWaterConditionsText a static final constant or non-public and provide accessors if needed.(§ªî¡ÿÿÿÿÿ8Ã¡¿•Ï1
+€
+java:S11046"cMake landingBeachParkingText a static final constant or non-public and provide accessors if needed.(¿å¦Ù8Ã¡¿•Ï1
+‹
+java:S11047"nMake landingBeachFloatingWheelchairText a static final constant or non-public and provide accessors if needed.(—‡Ë8Ã¡¿•Ï1
+„
+java:S11048"bMake weatherDescriptionText a static final constant or non-public and provide accessors if needed.(ËØµÏıÿÿÿÿ8Ã¡¿•Ï1
+}
+java:S11049"[Make temperatureText a static final constant or non-public and provide accessors if needed.(Ïñ“…úÿÿÿÿ8Ã¡¿•Ï1
+ƒ
+java:S1104;"aMake landingBeachImageView a static final constant or non-public and provide accessors if needed.(ªÃÎøÿÿÿÿ8Ã¡¿•Ï1
+
+java:S1104<"dMake landingBeachCapacityView a static final constant or non-public and provide accessors if needed.(ÚÔ€›8Ã¡¿•Ï1
+Š
+java:S1104="hMake landingBeachSandyOrRockyView a static final constant or non-public and provide accessors if needed.(‚ñËÒøÿÿÿÿ8Ã¡¿•Ï1
+
+java:S1104>"pMake landingBeachWheelchairAccessibleView a static final constant or non-public and provide accessors if needed.(¤°Ï8Ã¡¿•Ï1
+‹
+java:S1104?"nMake landingBeachFloatingWheelchairView a static final constant or non-public and provide accessors if needed.(İ¥ü8Ã¡¿•Ï1
+€
+java:S1104@"cMake landingBeachParkingView a static final constant or non-public and provide accessors if needed.(ØíÅ‹8Ã¡¿•Ï1
+‚
+java:S1104A"`Make landingBeachNameView a static final constant or non-public and provide accessors if needed.(³…®øúÿÿÿÿ8Ã¡¿•Ï1
+“
+java:S1104B"qMake landingBeachVisualWaterConditionsView a static final constant or non-public and provide accessors if needed.(É’Ôâúÿÿÿÿ8Ã¡¿•Ï1
+y
+java:S1104C"WMake weatherView a static final constant or non-public and provide accessors if needed.(Ä­ë­ùÿÿÿÿ8Ã¡¿•Ï1
+
+java:S1104D"bMake weatherDescriptionView a static final constant or non-public and provide accessors if needed.(©òÀ¸8Ã¡¿•Ï1
+u
+java:S1104E"XMake humidityView a static final constant or non-public and provide accessors if needed.(½şÀ‘8Ã¡¿•Ï1
+}
+java:S1104F"[Make temperatureView a static final constant or non-public and provide accessors if needed.(¥ùãÿÿÿÿÿ8Ã¡¿•Ï1
+q
+java:S1104G"TMake windView a static final constant or non-public and provide accessors if needed.(€øœÃ8Ã¡¿•Ï1
+r
+java:S1104H"UMake cloudView a static final constant or non-public and provide accessors if needed.(úõ¾ˆ8Ã¡¿•Ï1
+t
+java:S1104J"WMake currentDate a static final constant or non-public and provide accessors if needed.(‹°¥¢8Ã¡¿•Ï1
+t
+java:S1104K"RMake userID a static final constant or non-public and provide accessors if needed.(Ëã¤æøÿÿÿÿ8Ã¡¿•Ï1
+v
+java:S1104L"TMake userType a static final constant or non-public and provide accessors if needed.(ïƒ­ûÿÿÿÿ8Ã¡¿•Ï1
+q
+java:S1104N"TMake beachLat a static final constant or non-public and provide accessors if needed.(¡Ãà°8Ã¡¿•Ï1
+r
+java:S1104N"UMake beachLong a static final constant or non-public and provide accessors if needed.(¡Ãà°8Ã¡¿•Ï1
+{
+java:S1104O"YMake beachLocation a static final constant or non-public and provide accessors if needed.(¡­›«ùÿÿÿÿ8Ã¡¿•Ï1
+u
+java:S1104P"SMake mapsBtn a static final constant or non-public and provide accessors if needed.(î°åœùÿÿÿÿ8Ã¡¿•Ï1
+n	java:S101,"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(È¯¨¯üÿÿÿÿ8Ä¡¿•Ï1
+O
+java:S16590"-Declare "parsedBeachName" on a separate line.(ä”¤Üøÿÿÿÿ8÷¢¿•Ï1
+D
+java:S1659N"'Declare "beachLong" on a separate line.(¡Ãà°8÷¢¿•Ï1
+t
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¨Œşÿÿÿÿ8ı¢¿•Ï1
+\
+java:S1161Q":Add the "@Override" annotation above this method signature(¨Œşÿÿÿÿ8ş¢¿•Ï1
+]	java:S125y"<This block of commented-out lines of code should be removed.(ı²áÓùÿÿÿÿ8¶‹Ş˜Ï1
+X
+java:S1117“":Rename "userID" which hides the field declared at line 75.(—Ö‘…8·×Ú˜Ï1
+Y	java:S125¢"<This block of commented-out lines of code should be removed.(äÿöª8¸×Ú˜Ï1
+p
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(ÑŸ‹§8»×Ú˜Ï1
+G
+java:S1940÷")Use the opposite operator ("!=") instead.(²ı·ã8½×Ú˜Ï1
+G
+java:S1940ş")Use the opposite operator ("!=") instead.(Ìâù8§Œ£¨Ï1
+G
+java:S1940ƒ")Use the opposite operator ("!=") instead.(ªŒ÷Ó8§Œ£¨Ï1
+L
+java:S1940ˆ")Use the opposite operator ("!=") instead.(›òáØüÿÿÿÿ8§Œ£¨Ï1
+L
+java:S1940")Use the opposite operator ("!=") instead.(–Óäıÿÿÿÿ8¨Œ£¨Ï1
+G
+java:S1940•")Use the opposite operator ("!=") instead.(¯¢«ü8¨Œ£¨Ï1
+^	java:S125Ä"<This block of commented-out lines of code should be removed.(ÜÑ¡øÿÿÿÿ8«Œ£¨Ï1
+Y	java:S125Ğ"<This block of commented-out lines of code should be removed.(•êØ˜8¬Œ£¨Ï1
+ysecrets:S6705²"SMake sure this OpenWeatherMap key gets revoked, changed, and removed from the code.(Ã¿ÿùÿÿÿÿ8ÖŒ£¨Ï1

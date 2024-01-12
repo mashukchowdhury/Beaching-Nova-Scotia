@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BeachingNS</string>
+    <string name="wheelchair_accessible">Wheelchair Accessible♿</string>
+    <string name="selectionDropdown">Please select an option</string>
+    <string name="floating_wheelchair">Floating Wheelchair on site</string>
+    <string name="submitButtonLabel">Submit</string>
+    <string name="beachingNS">Beaching NS</string>
+    <string name="beach_type">Beach Type</string>
+
+    <string-array name="visualWaterConditionsValues">
+        <item>Calm waters</item>
+        <item>Medium waters</item>
+        <item>Rough waters</item>
+    </string-array>
+    <string-array name="beachCapacityValues">
+        <item>Low Capacity</item>
+        <item>Medium Capacity</item>
+        <item>High Capacity</item>
+    </string-array>
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_name">User Name:</string>
+    <string name="sign_out_buttton">SIGN OUT</string>
+    <string name="preferred_beaches">View Favorite Beaches</string>
+    <string name="editBtnText">EDIT</string>
+    <string name="Search">Search</string>
+    <string name="Capacity">Beach Capacity</string>
+
+    <string-array name="beachTypeValues">
+        <item>Rocky</item>
+        <item>Sandy</item>
+    </string-array>
+    <string-array name="wheelChairAccessibleValue">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="floatingWheelChairValue">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="parkingSpotValues">
+        <item>Many spots</item>
+        <item>Few spots</item>
+        <item>Little/No Spots</item>
+    </string-array>
+    <string-array name="CapacityValues">
+        <item>Many people</item>
+        <item>Few people</item>
+        <item>Little/No people</item>
+    </string-array>
+</resources>

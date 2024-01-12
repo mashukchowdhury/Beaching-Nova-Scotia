@@ -1,0 +1,8 @@
+
+E
+java:S1604."(Make this anonymous inner class a lambda(Ì¬¿À8´ÿè”Ï1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Êµ‘·øÿÿÿÿ8µÿè”Ï1
+s
+java:S1450"VRemove the "homeBtn" field and declare it as a local variable in the relevant methods.(²êÄÆ8Çÿè”Ï1
+}
+java:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ8Çÿè”Ï1

@@ -1,4 +1,4 @@
-# TME 3 
+# Beaching Nova Scotia (BeachingNS)
 
 # BeachingNS Android App Setup Instructions
 
